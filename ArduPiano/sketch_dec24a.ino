@@ -1,6 +1,7 @@
 /*
 As an example, I decided to pick up the notes of the melody "In The End" by Linkin Park.
-If you have a lot of buttons, then you can connect them and play something more complex accordingly. Good luck!
+If you have a lot of buttons, then you can connect them and play something more complex accordingly.
+Or you can take some other notes. Good luck! :)
 https://www.liutaiomottola.com/formulae/freqtab.htm
 Ratrio101
 */
