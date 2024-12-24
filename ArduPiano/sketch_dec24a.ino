@@ -1,3 +1,10 @@
+/*
+As an example, I decided to pick up the notes of the melody "In The End" by Linkin Park.
+If you have a lot of buttons, then you can connect them and play something more complex accordingly. Good luck!
+
+Ratrio101
+*/
+
 #define PIEZO 13
 
 #define BUTTON_DDIEZ 2
